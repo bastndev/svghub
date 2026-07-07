@@ -42,7 +42,7 @@ emit that helper, nothing changes — it's a no-op removal, not a requirement.
 ## What you're actually responsible for
 
 1. **Path geometry** — the actual shape. Obviously can't be automated.
-2. **`viewBox`** — this is the one real lever over apparent icon *size*.
+2. **`viewBox`** — this is the one real lever over apparent icon _size_.
    `viewBox="0 0 24 24"` is the default 24×24 canvas. A tighter box like
    `viewBox="2 2 20 20"` crops in and renders the icon visibly larger at the
    same `size=` attribute. This repo's existing icons intentionally use
@@ -53,12 +53,3 @@ emit that helper, nothing changes — it's a no-op removal, not a requirement.
    before publishing any new icon.**
 3. **Filename** — kebab-case, matches the icon's public name exactly
    (`arrow-up.svg` → usable as `name="arrow-up"`).
-
-
-<!-- no aplicar -->
-<!-- ## Before publishing a new batch: `preview/index.html`
-
-Run `bun run build` then open `preview/index.html` (or `bun run preview` if
-you add a static server) — it renders every icon currently in the registry,
-grouped by category, at a fixed size. This is the fast way to eyeball a new
-icon next to existing ones and catch a wrong viewBox crop before it ships. -->
