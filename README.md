@@ -10,10 +10,10 @@
 
 <br>
 
-<a href="https://www.npmjs.com/package/svghub"><img alt="NPM version" src="https://img.shields.io/npm/v/svghub.svg?style=for-the-badge&logo=npm&logoColor=white&color=A8784E&labelColor=121214"></a>
-<a href="https://www.npmjs.com/package/svghub"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/svghub.svg?style=for-the-badge&logo=npm&logoColor=white&color=A8784E&labelColor=121214"></a>
-<a href="https://github.com/bastndev/svghub/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/npm/l/svghub.svg?style=for-the-badge&color=A8784E&labelColor=121214"></a>
-<a href="https://github.com/bastndev/svghub/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/bastndev/svghub.svg?style=for-the-badge&logo=github&logoColor=white&color=A8784E&labelColor=121214"></a>
+<a href="https://www.npmjs.com/package/svghub"><img alt="NPM version" src="https://img.shields.io/npm/v/svghub.svg?style=for-the-badge&logo=npm&logoColor=white&color=EAEE04&labelColor=121214"></a>
+<a href="https://www.npmjs.com/package/svghub"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/svghub.svg?style=for-the-badge&logo=npm&logoColor=white&color=EAEE04&labelColor=121214"></a>
+<a href="https://github.com/bastndev/svghub/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/npm/l/svghub.svg?style=for-the-badge&color=EAEE04&labelColor=121214"></a>
+<a href="https://github.com/bastndev/svghub/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/bastndev/svghub.svg?style=for-the-badge&logo=github&logoColor=white&color=EAEE04&labelColor=121214"></a>
 
 <h1></h1>
 
