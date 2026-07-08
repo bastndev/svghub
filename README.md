@@ -88,7 +88,7 @@ import 'iconix/web';
 Then use it anywhere in your HTML or JSX:
 
 ```html
-<iconix-icon name="github" size="32" color="#A8784E" stroke-width="1.5"></iconix-icon>
+<iconix-icon name="github" size="32" color="#C49A6C" stroke-width="1.5"></iconix-icon>
 ```
 
 ### JavaScript / TypeScript API
