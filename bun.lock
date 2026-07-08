@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "iconix",
+      "name": "svghub",
       "devDependencies": {
         "@types/node": "^22",
         "tsup": "^8",
