@@ -4,7 +4,7 @@ const DEFAULT_SIZE = 24;
 const DEFAULT_STROKE_WIDTH = 2;
 const SVG_NS = 'http://www.w3.org/2000/svg';
 
-export class IconixIconElement extends HTMLElement {
+export class SvghubIconElement extends HTMLElement {
   static get observedAttributes() {
     return ['name', 'size', 'color', 'stroke-width'];
   }
@@ -26,7 +26,7 @@ export class IconixIconElement extends HTMLElement {
 
     const icon = getIcon(name);
     if (!icon) {
-      console.warn(`[iconix] Unknown icon "${name}"`);
+      console.warn(`[svghub] Unknown icon "${name}"`);
       this.replaceChildren();
       return;
     }
